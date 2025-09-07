@@ -19,4 +19,4 @@ export const generateContacts = async (number) => {
   }
 };
 
-generateContacts();
+generateContacts(10);
